@@ -53,4 +53,24 @@ A selection of TAK Rig interface screenshots. Click any thumbnail to open the fu
       <sub><b>Red Light Map Mode</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/TOOLKIT_DRAWER.webp"><img src="screenshots/TOOLKIT_DRAWER.webp" width="320" alt="TAK Rig toolkit drawer"></a><br>
+      <sub><b>Toolkit Drawer</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/SUN-MOON.webp"><img src="screenshots/SUN-MOON.webp" width="320" alt="Sun and moon information"></a><br>
+      <sub><b>Sun / Moon</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/VIEWSHED_1.webp"><img src="screenshots/VIEWSHED_1.webp" width="320" alt="Viewshed analysis"></a><br>
+      <sub><b>Viewshed Analysis</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/VIDEO_STREAMS.webp"><img src="screenshots/VIDEO_STREAMS.webp" width="320" alt="Video streams"></a><br>
+      <sub><b>Video Streams</b></sub>
+    </td>
+  </tr>
 </table>
