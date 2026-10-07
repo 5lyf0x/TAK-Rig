@@ -2,7 +2,7 @@
 
 **TAK Rig** is an Android navigation and connectivity platform built for **off-roading, overlanding, remote travel, and multi-vehicle trips**.
 
-It combines offline navigation with convoy awareness, local communications, shared trip data, recent satellite imagery, and tools designed for larger vehicle-mounted Android displays.
+It combines offline navigation with convoy awareness, local communications, shared trip data, recent satellite imagery, and tools designed for larger vehicle-mounted Android displays, approx 8"-11".
 
 This repository contains compiled TAK Rig releases and release information only.
 
