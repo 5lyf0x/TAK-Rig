@@ -238,6 +238,13 @@ Field testing helps improve areas such as:
 
 ---
 
+## Planned Future Development
+
+- XTAK VEIL node compatibility
+- Bluetooth handset speaker/microphone compatibility
+
+---
+
 ## Development Status
 
 TAK Rig is **under active development**.
