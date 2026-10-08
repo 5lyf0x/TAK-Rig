@@ -67,35 +67,35 @@ A compact gallery of TAK Rig interface screenshots. Click any thumbnail to open 
       <sub><b>Video Streams</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp"><img src="screenshots/3D_TERRAIN_NAV.webp" width="235" alt="3D terrain route view"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain route view"></a><br>
       <sub><b>3D Terrain</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp"><img src="screenshots/NAVIGATE.webp" width="235" alt="Navigate panel"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Navigate panel"></a><br>
       <sub><b>Navigate</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp"><img src="screenshots/ROAD_IN_NAVIGATE.webp" width="235" alt="Road navigation coverage"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Road navigation coverage"></a><br>
       <sub><b>Road in Navigate</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp"><img src="screenshots/OFFROAD_IN_NAVIGATE.webp" width="235" alt="Offroad navigation coverage"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Offroad navigation coverage"></a><br>
       <sub><b>Offroad in Navigate</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp"><img src="screenshots/INFORMATION_BOX.webp" width="235" alt="TAK Rig information box"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="TAK Rig information box"></a><br>
       <sub><b>Information Box</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp"><img src="screenshots/3D_TERRAIN.webp" width="235" alt="3D terrain view and controls"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain view and controls"></a><br>
       <sub><b>3D Terrain</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="4">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp"><img src="screenshots/CELL_COVERAGE.webp" width="235" alt="Cell coverage overlay"></a><br>
+      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Cell coverage overlay"></a><br>
       <sub><b>Cell Coverage</b></sub>
     </td>
   </tr>
