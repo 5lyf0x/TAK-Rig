@@ -5,97 +5,97 @@ A compact gallery of TAK Rig interface screenshots. Click any thumbnail to open 
 <table>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ADSB.png"><img src="screenshots/ADSB.png" width="235" alt="ADS-B aircraft tracking"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=1"><img src="screenshots/ADSB.png" width="235" alt="ADS-B aircraft tracking"></a><br>
       <sub><b>ADS-B Aircraft Tracking</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROUTE.png"><img src="screenshots/ROUTE.png" width="235" alt="Route details and elevation profile"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=2"><img src="screenshots/ROUTE.png" width="235" alt="Route details and elevation profile"></a><br>
       <sub><b>Route Details &amp; Elevation Profile</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/BASEMAPS.png"><img src="screenshots/BASEMAPS.png" width="235" alt="Basemap selection"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=3"><img src="screenshots/BASEMAPS.png" width="235" alt="Basemap selection"></a><br>
       <sub><b>Basemap Selection</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFLINEMAP_1.png"><img src="screenshots/OFFLINEMAP_1.png" width="235" alt="Offline map download setup"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=4"><img src="screenshots/OFFLINEMAP_1.png" width="235" alt="Offline map download setup"></a><br>
       <sub><b>Offline Map Download Setup</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFLINEMAP_2.png"><img src="screenshots/OFFLINEMAP_2.png" width="235" alt="Offline map download progress"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=5"><img src="screenshots/OFFLINEMAP_2.png" width="235" alt="Offline map download progress"></a><br>
       <sub><b>Offline Map Download Progress</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CHAT.png"><img src="screenshots/CHAT.png" width="235" alt="TAK Rig chat rooms"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=6"><img src="screenshots/CHAT.png" width="235" alt="TAK Rig chat rooms"></a><br>
       <sub><b>Chat Rooms</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/MARKER.png"><img src="screenshots/MARKER.png" width="235" alt="Marker icon registry"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=7"><img src="screenshots/MARKER.png" width="235" alt="Marker icon registry"></a><br>
       <sub><b>Marker Icon Registry</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/MEASURE.png"><img src="screenshots/MEASURE.png" width="235" alt="Map measurement tools"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=8"><img src="screenshots/MEASURE.png" width="235" alt="Map measurement tools"></a><br>
       <sub><b>Measurement Tools</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ELEVATION_HEATMAP.png"><img src="screenshots/ELEVATION_HEATMAP.png" width="235" alt="Elevation heatmap"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=9"><img src="screenshots/ELEVATION_HEATMAP.png" width="235" alt="Elevation heatmap"></a><br>
       <sub><b>Elevation Heatmap</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/REDLIGHT.png"><img src="screenshots/REDLIGHT.png" width="235" alt="Red light map mode"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=10"><img src="screenshots/REDLIGHT.png" width="235" alt="Red light map mode"></a><br>
       <sub><b>Red Light Map Mode</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/TOOLKIT_DRAWER.webp"><img src="screenshots/TOOLKIT_DRAWER.webp" width="235" alt="TAK Rig toolkit drawer"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=11"><img src="screenshots/TOOLKIT_DRAWER.webp" width="235" alt="TAK Rig toolkit drawer"></a><br>
       <sub><b>Toolkit Drawer</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/SUN-MOON.webp"><img src="screenshots/SUN-MOON.webp" width="235" alt="Sun and moon information"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=12"><img src="screenshots/SUN-MOON.webp" width="235" alt="Sun and moon information"></a><br>
       <sub><b>Sun / Moon</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/VIEWSHED_1.webp"><img src="screenshots/VIEWSHED_1.webp" width="235" alt="Viewshed analysis"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=13"><img src="screenshots/VIEWSHED_1.webp" width="235" alt="Viewshed analysis"></a><br>
       <sub><b>Viewshed Analysis</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/VIDEO_STREAMS.webp"><img src="screenshots/VIDEO_STREAMS.webp" width="235" alt="Video streams"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=14"><img src="screenshots/VIDEO_STREAMS.webp" width="235" alt="Video streams"></a><br>
       <sub><b>Video Streams</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain route view"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=15"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN_NAV.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain route view"></a><br>
       <sub><b>3D Terrain</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Navigate panel"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=16"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Navigate panel"></a><br>
       <sub><b>Navigate</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Road navigation coverage"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=17"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/ROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Road navigation coverage"></a><br>
       <sub><b>Road in Navigate</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Offroad navigation coverage"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=18"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/OFFROAD_IN_NAVIGATE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Offroad navigation coverage"></a><br>
       <sub><b>Offroad in Navigate</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="TAK Rig information box"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=19"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/INFORMATION_BOX.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="TAK Rig information box"></a><br>
       <sub><b>Information Box</b></sub>
     </td>
     <td align="center" width="25%">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain view and controls"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=20"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/3D_TERRAIN.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="3D terrain view and controls"></a><br>
       <sub><b>3D Terrain</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="4">
-      <a href="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Cell coverage overlay"></a><br>
+      <a href="https://5lyf0x.github.io/TAK-Rig/?shot=21"><img src="https://raw.githubusercontent.com/5lyf0x/TAK-Rig/main/screenshots/CELL_COVERAGE.webp?v=026957ff9e3e8fafbc279b3f1d66f7c7fa90e8f5" width="235" alt="Cell coverage overlay"></a><br>
       <sub><b>Cell Coverage</b></sub>
     </td>
   </tr>
